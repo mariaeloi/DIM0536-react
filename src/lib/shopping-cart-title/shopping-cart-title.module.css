@@ -1,0 +1,9 @@
+.shoppingCartTitle {
+  margin: 16px;
+  margin-left: 0px;
+  text-align: left;
+}
+
+.shoppingCartTitle h2, .shoppingCartTitle p {
+  margin: 0px;
+}

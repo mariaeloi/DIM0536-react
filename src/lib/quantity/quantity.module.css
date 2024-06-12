@@ -1,0 +1,17 @@
+.quantity {
+  text-align: right;
+  font-weight: bold;
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  gap: 8px;
+}
+
+.quantityButtons {
+  display: flex;
+  flex-direction: column;
+}
+
+.quantity Button {
+  padding: 4px;
+}

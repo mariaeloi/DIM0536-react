@@ -1,0 +1,49 @@
+.totalCard {
+  padding: 16px;
+  max-width: 300px;
+}
+
+.totalCard h4,
+.totalCard p {
+  margin: 0px;
+}
+
+.totalCard hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.title {
+  margin: 0px;
+  text-align: left;
+}
+
+.shipping {
+  text-align: left;
+}
+
+.shippingRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.address {
+  font-size: small;
+}
+
+.subtotalRow,
+.total {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.totalCard Button {
+  width: 100%;
+  margin-top: 16px;
+}
